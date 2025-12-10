@@ -1,0 +1,38 @@
+# AI / LLMs
+langchain
+langchain-google-genai
+openai
+llama-index
+
+# Backend
+fastapi
+uvicorn
+
+# Database
+sqlalchemy
+sqlite-utils
+alembic
+
+# Environment Variables
+python-dotenv
+
+# Logging & Scheduling
+loguru
+apscheduler
+
+# CLI Tools
+typer
+
+# Web App / Dashboard
+streamlit
+
+# HTTP Clients
+requests
+httpx
+
+# Validation
+pydantic
+
+# Dev Tools (optional but recommended)
+black
+isort
